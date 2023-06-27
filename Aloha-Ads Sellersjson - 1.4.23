@@ -23,6 +23,13 @@
       "name": "plex.tv"
     },
     {
+      "seller_id": "50204",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "domain": "fugo.com.tr",
+      "name": "Fugo"
+    },
+    {
       "seller_id": "50213",
       "seller_type": "PUBLISHER",
       "domain": "light-novel.biz",
