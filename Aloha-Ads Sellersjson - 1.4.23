@@ -4,7 +4,7 @@
   "version": "1.2",
   "identifiers": [],
   "sellers": [
- {
+  {
       "seller_id": "50204",
       "seller_type": "PUBLISHER",
       "domain": "fugo.com.tr",
@@ -34,12 +34,6 @@
       "domain": "botecogames.io",
       "name": "botecogames.io"
     },
-  {
-      "seller_id": "50221",
-      "seller_type": "PUBLISHER",
-      "domain": "mobilityware.com",
-      "name": "Mobilityware"
-    },
     {
       "seller_id": "50221",
       "seller_type": "INTERMEDIARY",
@@ -49,8 +43,8 @@
     {
       "seller_id": "50222",
       "seller_type": "PUBLISHER",
-      "domain": "anthym.tv",
-      "name": "anthym.tv"
+      "domain": "anthymtv.com",
+      "name": "anthymtv.com"
     },
     {
       "seller_id": "50232",
@@ -151,8 +145,8 @@
     {
       "seller_id": "50370",
       "seller_type": "PUBLISHER",
-      "domain": "centsports.com",
-      "name": "centsports.com"
+      "domain": "buccaneersfan.com",
+      "name": "buccaneersfan.com"
     },
     {
       "seller_id": "50374",
@@ -183,6 +177,12 @@
       "seller_type": "PUBLISHER",
       "domain": "frntofficesport.com",
       "name": "frntofficesport.com"
+    },
+    {
+      "seller_id": "50383",
+      "seller_type": "PUBLISHER",
+      "domain": "raiderramble.com",
+      "name": "raiderramble.com"
     },
     {
       "seller_id": "50384",
@@ -249,6 +249,18 @@
       "seller_type": "PUBLISHER",
       "domain": "newspaper24hr.com",
       "name": "newspaper24hr.com"
+    },
+    {
+      "seller_id": "50410",
+      "seller_type": "PUBLISHER",
+      "domain": "moviesplustv.com",
+      "name": "moviesplustv.com"
+    },
+    {
+      "seller_id": "50412",
+      "seller_type": "PUBLISHER",
+      "domain": "locsonstem.com",
+      "name": "locsonstem.com"
     }
   ]
 }
