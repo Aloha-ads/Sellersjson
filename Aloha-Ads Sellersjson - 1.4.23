@@ -251,6 +251,13 @@
       "name": "moviesplustv.com"
     },
     {
+      "seller_id": "50396",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "domain": "scopely.com",
+      "name": "scopely.com"
+    },
+    {
       "seller_id": "50412",
       "seller_type": "PUBLISHER",
       "domain": "locsonstem.com",
