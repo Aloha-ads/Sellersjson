@@ -1,10 +1,10 @@
 {
   "contact_email": "info@aloha-ads.com",
-  "contact_address": "309 Coffeen Ave #1200 Sheridan, WY 82801, USA",
+  "contact_address": "aloha-ads.com",
   "version": "1.2",
   "identifiers": [],
   "sellers": [
-   {
+    {
       "seller_id": "50204",
       "seller_type": "PUBLISHER",
       "domain": "fugo.com.tr",
@@ -31,8 +31,14 @@
     {
       "seller_id": "50213",
       "seller_type": "PUBLISHER",
-      "domain": "light-novel.biz",
-      "name": "light-novel.biz"
+      "domain": "bulldozer-balls.com",
+      "name": "bulldozer-balls.com"
+    },
+    {
+      "seller_id": "50217",
+      "seller_type": "PUBLISHER",
+      "domain": "rave.io",
+      "name": "rave.io"
     },
     {
       "seller_id": "50219",
@@ -42,15 +48,15 @@
     },
     {
       "seller_id": "50221",
-      "seller_type": "PUBLISHER",
+      "seller_type": "INTERMEDIARY",
       "domain": "california-games.com",
       "name": "california-games.com"
     },
     {
       "seller_id": "50232",
       "seller_type": "PUBLISHER",
-      "domain": "azuretech.io",
-      "name": "azuretech.io"
+      "domain": "azure-boost.com",
+      "name": "azure-boost.com"
     },
     {
       "seller_id": "50243",
@@ -59,34 +65,16 @@
       "name": "top-apps.com"
     },
     {
-      "seller_id": "50251",
-      "seller_type": "PUBLISHER",
-      "domain": "fun-verse.net",
-      "name": "fun-verse.net"
-    },
-    {
       "seller_id": "50300",
       "seller_type": "PUBLISHER",
       "domain": "tricount.com",
       "name": "tricount.com"
     },
     {
-      "seller_id": "50326",
-      "seller_type": "PUBLISHER",
-      "domain": "futbin.com",
-      "name": "futbin.com"
-    },
-    {
       "seller_id": "50329",
       "seller_type": "PUBLISHER",
       "domain": "wafour.com",
       "name": "wafour.com"
-    },
-    {
-      "seller_id": "50337",
-      "seller_type": "PUBLISHER",
-      "domain": "apps.com.tr",
-      "name": "apps.com.tr"
     },
     {
       "seller_id": "50338",
@@ -109,20 +97,20 @@
     {
       "seller_id": "50352",
       "seller_type": "PUBLISHER",
-      "domain": "forage79lucca.asia",
-      "name": "forage79lucca.asia"
+      "domain": "adobe20.online",
+      "name": "adobe20.online"
     },
     {
       "seller_id": "50358",
       "seller_type": "PUBLISHER",
-      "domain": "jumpywheels.com",
-      "name": "jumpywheels.com"
+      "domain": "mega-click.io",
+      "name": "mega-click.io"
     },
     {
       "seller_id": "50359",
       "seller_type": "PUBLISHER",
-      "domain": "jumpywheels.com",
-      "name": "jumpywheels.com"
+      "domain": "mega-click.io",
+      "name": "mega-click.io"
     },
     {
       "seller_id": "50362",
@@ -159,6 +147,12 @@
       "seller_type": "PUBLISHER",
       "domain": "americasvoice.news",
       "name": "americasvoice.news"
+    },
+    {
+      "seller_id": "50377",
+      "seller_type": "PUBLISHER",
+      "domain": "afrolandtv.com",
+      "name": "afrolandtv.com"
     },
     {
       "seller_id": "50379",
@@ -203,16 +197,16 @@
       "name": "bustimes.londonbusapp.com"
     },
     {
+      "seller_id": "50396",
+      "seller_type": "PUBLISHER",
+      "domain": "scopely.com",
+      "name": "scopely.com"
+    },
+    {
       "seller_id": "50397",
       "seller_type": "PUBLISHER",
       "domain": "pokerallday.com",
       "name": "pokerallday.com"
-    },
-    {
-      "seller_id": "50399",
-      "seller_type": "PUBLISHER",
-      "domain": "littledotstudios.com",
-      "name": "littledotstudios.com"
     },
     {
       "seller_id": "50401",
@@ -245,29 +239,16 @@
       "name": "moviesplustv.com"
     },
     {
-      "seller_id": "50396",
-      "seller_type": "PUBLISHER",
-      "is_confidential": 0,
-      "domain": "scopely.com",
-      "name": "scopely.com"
-    },
-    {
       "seller_id": "50412",
       "seller_type": "PUBLISHER",
-      "domain": "locsonstem.com",
-      "name": "locsonstem.com"
+      "domain": "danhngon.pro",
+      "name": "danhngon.pro"
     },
     {
       "seller_id": "50422",
       "seller_type": "PUBLISHER",
       "domain": "reveel.net",
       "name": "reveel.net"
-    },
-    {
-      "seller_id": "50423",
-      "seller_type": "PUBLISHER",
-      "domain": "sunmedia.stream",
-      "name": "sunmedia.stream"
     },
     {
       "seller_id": "50571",
@@ -280,6 +261,138 @@
       "seller_type": "PUBLISHER",
       "domain": "allplaynews.com",
       "name": "allplaynews.com"
+    },
+    {
+      "seller_id": "50575",
+      "seller_type": "PUBLISHER",
+      "domain": "surlyhorns.com",
+      "name": "surlyhorns.com"
+    },
+    {
+      "seller_id": "50586",
+      "seller_type": "PUBLISHER",
+      "domain": "localbtv.com",
+      "name": "localbtv.com"
+    },
+    {
+      "seller_id": "50587",
+      "seller_type": "PUBLISHER",
+      "domain": "splintrun.com",
+      "name": "splintrun.com"
+    },
+    {
+      "seller_id": "50588",
+      "seller_type": "PUBLISHER",
+      "domain": "mouse-simulator.com",
+      "name": "mouse-simulator.com"
+    },
+    {
+      "seller_id": "50589",
+      "seller_type": "PUBLISHER",
+      "domain": "pixel-combat.com",
+      "name": "pixel-combat.com"
+    },
+    {
+      "seller_id": "50591",
+      "seller_type": "PUBLISHER",
+      "domain": "phlsportsnation.com",
+      "name": "phlsportsnation.com"
+    },
+    {
+      "seller_id": "50592",
+      "seller_type": "PUBLISHER",
+      "domain": "crunchyroll.com",
+      "name": "crunchyroll.com"
+    },
+    {
+      "seller_id": "50593",
+      "seller_type": "INTERMEDIARY",
+      "domain": "truecaller.com",
+      "name": "truecaller.com"
+    },
+    {
+      "seller_id": "50594",
+      "seller_type": "PUBLISHER",
+      "domain": "sazi.info",
+      "name": "sazi.info"
+    },
+    {
+      "seller_id": "50595",
+      "seller_type": "PUBLISHER",
+      "domain": "asiancookingstar.theappguruz.com",
+      "name": "asiancookingstar.theappguruz.com"
+    },
+    {
+      "seller_id": "50596",
+      "seller_type": "PUBLISHER",
+      "domain": "tmspn.com",
+      "name": "tmspn.com"
+    },
+    {
+      "seller_id": "50597",
+      "seller_type": "PUBLISHER",
+      "domain": "fastphillysports.com",
+      "name": "fastphillysports.com"
+    },
+    {
+      "seller_id": "50599",
+      "seller_type": "PUBLISHER",
+      "domain": "aparentmedia.com",
+      "name": "aparentmedia.com"
+    },
+    {
+      "seller_id": "50600",
+      "seller_type": "PUBLISHER",
+      "domain": "tyko.online",
+      "name": "tyko.online"
+    },
+    {
+      "seller_id": "50602",
+      "seller_type": "PUBLISHER",
+      "domain": "alfee.info",
+      "name": "alfee.info"
+    },
+    {
+      "seller_id": "50603",
+      "seller_type": "PUBLISHER",
+      "domain": "leafslice.com",
+      "name": "leafslice.com"
+    },
+    {
+      "seller_id": "50604",
+      "seller_type": "PUBLISHER",
+      "domain": "hashcube.com",
+      "name": "hashcube.com"
+    },
+    {
+      "seller_id": "50605",
+      "seller_type": "PUBLISHER",
+      "domain": "sadly.info",
+      "name": "sadly.info"
+    },
+    {
+      "seller_id": "50607",
+      "seller_type": "PUBLISHER",
+      "domain": "yega.online",
+      "name": "yega.online"
+    },
+    {
+      "seller_id": "50622",
+      "seller_type": "PUBLISHER",
+      "domain": "babgame.co",
+      "name": "babgame.co"
+    },
+    {
+      "seller_id": "50352",
+      "seller_type": "PUBLISHER",
+      "domain": "forage79lucca.asia",
+      "name": "forage79lucca.asia"
+    },
+    {
+      "seller_id": "50326",
+      "seller_type": "PUBLISHER",
+      "domain": "futbin.com",
+      "name": "futbin.com"
     }
   ]
 }
