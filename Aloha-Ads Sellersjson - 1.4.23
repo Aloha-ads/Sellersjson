@@ -17,10 +17,34 @@
       "name": "mobilityware.com"
     },
     {
+      "seller_id": "50658",
+      "seller_type": "PUBLISHER",
+      "domain": "rakuten.tv",
+      "name": "rakuten.tv"
+    },
+    {
       "seller_id": "50209",
       "seller_type": "PUBLISHER",
       "domain": "playsimple.in",
       "name": "playsimple.in"
+    },
+    {
+      "seller_id": "50219",
+      "seller_type": "PUBLISHER",
+      "domain": "tap-nation.io",
+      "name": "tap-nation.io"
+    },
+    {
+      "seller_id": "50642",
+      "seller_type": "PUBLISHER",
+      "domain": "games2win.com",
+      "name": "games2win.com"
+    },
+    {
+      "seller_id": "50352",
+      "seller_type": "PUBLISHER",
+      "domain": "aigames.ae",
+      "name": "aigames.ae"
     },
     {
       "seller_id": "50645",
@@ -45,12 +69,6 @@
       "seller_type": "INTERMEDIARY",
       "domain": "99memes.co",
       "name": "99memes.co"
-    },
-    {
-      "seller_id": "50352",
-      "seller_type": "PUBLISHER",
-      "domain": "aigames.ae",
-      "name": "aigames.ae"
     },
     {
       "seller_id": "50362",
@@ -93,12 +111,6 @@
       "seller_type": "PUBLISHER",
       "domain": "giftcuztom.com",
       "name": "giftcuztom.com"
-    },
-    {
-      "seller_id": "50219",
-      "seller_type": "PUBLISHER",
-      "domain": "tapnation.io",
-      "name": "tapnation.io"
     },
     {
       "seller_id": "50366",
@@ -190,12 +202,6 @@
       "seller_type": "PUBLISHER",
       "domain": "raiderramble.com",
       "name": "raiderramble.com"
-    },
-    {
-      "seller_id": "50658",
-      "seller_type": "PUBLISHER",
-      "domain": "rakuten.tv",
-      "name": "rakuten.tv"
     },
     {
       "seller_id": "50422",
@@ -318,12 +324,6 @@
       "seller_type": "PUBLISHER",
       "domain": "fugo.com.tr",
       "name": "fugo.com.tr"
-    },
-    {
-      "seller_id": "50642",
-      "seller_type": "PUBLISHER",
-      "domain": "games2win.com",
-      "name": "games2win.com"
     },
     {
       "seller_id": "50402",
