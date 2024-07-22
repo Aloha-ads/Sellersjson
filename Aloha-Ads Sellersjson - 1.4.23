@@ -274,8 +274,9 @@
     {
       "seller_id": "50595",
       "seller_type": "PUBLISHER",
-      "domain": "asiancookingstar.theappguruz.com",
-      "name": "asiancookingstar.theappguruz.com"
+      "is_confidential": 0,
+      "domain": "theappguruz.com",
+      "name": "HelloHi Games"
     },
     {
       "seller_id": "50232",
