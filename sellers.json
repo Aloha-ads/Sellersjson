@@ -447,6 +447,108 @@
 "name": "Verve"
 },
 {
+  "seller_id": "50602",
+  "seller_type": "PUBLISHER",
+  "domain": "alfee.info",
+  "name": "alfee.info"
+},
+{
+  "seller_id": "50377",
+  "seller_type": "PUBLISHER",
+  "domain": "ads.zoneify.tv",
+  "name": "ads.zoneify.tv"
+},
+{
+  "seller_id": "50362",
+  "seller_type": "PUBLISHER",
+  "domain": "advocatepress.com",
+  "name": "advocatepress.com"
+},
+{
+  "seller_id": "50571",
+  "seller_type": "INTERMEDIARY",
+  "domain": "funxd.co",
+  "name": "funxd.co"
+},
+{
+  "seller_id": "50612",
+  "seller_type": "PUBLISHER",
+  "domain": "cafex.biz",
+  "name": "cafex.biz"
+},
+{
+  "seller_id": "50407",
+  "seller_type": "PUBLISHER",
+  "domain": "justbartanews.com",
+  "name": "justbartanews.com"
+},
+{
+  "seller_id": "50701",
+  "seller_type": "PUBLISHER",
+  "domain": "khq.com",
+  "name": "khq.com"
+},
+{
+  "seller_id": "50663",
+  "seller_type": "PUBLISHER",
+  "domain": "letgames.xyz",
+  "name": "letgames.xyz"
+},
+{
+  "seller_id": "50654",
+  "seller_type": "PUBLISHER",
+  "domain": "rfdtv.com",
+  "name": "rfdtv.com"
+},
+{
+  "seller_id": "50403",
+  "seller_type": "PUBLISHER",
+  "domain": "tredio.io",
+  "name": "tredio.io"
+},
+{
+  "seller_id": "50420",
+  "seller_type": "PUBLISHER",
+  "domain": "vuvu.tv",
+  "name": "vuvu.tv"
+},
+{
+  "seller_id": "50607",
+  "seller_type": "PUBLISHER",
+  "domain": "yega.online",
+  "name": "yega.online"
+},
+{
+  "seller_id": "50405",
+  "seller_type": "PUBLISHER",
+  "domain": "blockman-survival.web.app",
+  "name": "blockman-survival.web.app"
+},
+{
+  "seller_id": "50668",
+  "seller_type": "PUBLISHER",
+  "domain": "caglargames.com",
+  "name": "caglargames.com"
+},
+{
+  "seller_id": "50326",
+  "seller_type": "INTERMEDIARY",
+  "domain": "fcmdb.com",
+  "name": "fcmdb.com"
+},
+{
+  "seller_id": "50655",
+  "seller_type": "PUBLISHER",
+  "domain": "sportsgrid.com",
+  "name": "sportsgrid.com"
+},
+{
+  "seller_id": "50652",
+  "seller_type": "INTERMEDIARY",
+  "domain": "veraxen.com",
+  "name": "veraxen.com"
+},
+{
 "seller_id": "50660",
 "seller_type": "PUBLISHER",
 "domain": "yologamestudio.com",
