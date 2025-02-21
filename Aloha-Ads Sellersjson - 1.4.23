@@ -65,6 +65,12 @@
       "name": "aubtu.biz"
     },
     {
+      "seller_id": "50325",
+      "seller_type": "PUBLISHER",
+      "domain": "weather.weatherbug.com",
+      "name": "weather.weatherbug.com"
+    },
+    {
       "seller_id": "50571",
       "seller_type": "INTERMEDIARY",
       "domain": "99memes.co",
