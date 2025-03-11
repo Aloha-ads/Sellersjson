@@ -23,6 +23,12 @@
 "name": "rakuten.tv"
 },
 {
+"seller_id": "50325",
+"seller_type": "PUBLISHER",
+"domain": "weatherbug.com",
+"name": "WeatherBug"
+},
+{
 "seller_id": "50209",
 "seller_type": "PUBLISHER",
 "domain": "playsimple.in",
@@ -327,6 +333,12 @@
 "name": "fugo.com.tr"
 },
 {
+"seller_id": "50366",
+"seller_type": "PUBLISHER",
+"domain": "plex.tv",
+"name": "plex.tv"
+},
+{
 "seller_id": "50402",
 "seller_type": "PUBLISHER",
 "domain": "gapustudio.com",
@@ -430,9 +442,21 @@
 },
 {
 "seller_id": "50649",
-"seller_type": "INTERMEDIARY",
+"seller_type": "PUBLISHER",
 "domain": "hornet.com",
 "name": "hornet"
+},
+{
+"seller_id": "50662",
+"seller_type": "PUBLISHER",
+"domain": "cas.ai",
+"name": "cas.ai"
+},
+{
+"seller_id": "50707",
+"seller_type": "PUBLISHER",
+"domain": "infinitygames.io",
+"name": "infinitygames.io"
 },
 {
 "seller_id": "50665",
