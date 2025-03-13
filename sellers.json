@@ -8,7 +8,7 @@
 "seller_id": "50210",
 "seller_type": "PUBLISHER",
 "domain": "plex.tv",
-"name": "plex.tv"
+"name": "plex TV"
 },
 {
 "seller_id": "50221",
@@ -121,7 +121,7 @@
 {
 "seller_id": "50366",
 "seller_type": "PUBLISHER",
-"domain": "www.ruckusfactory.com",
+"domain": "ruckusfactory.com",
 "name": "Zazoom Media"
 },
 {
@@ -331,12 +331,6 @@
 "seller_type": "PUBLISHER",
 "domain": "fugo.com.tr",
 "name": "fugo.com.tr"
-},
-{
-"seller_id": "50366",
-"seller_type": "PUBLISHER",
-"domain": "plex.tv",
-"name": "plex.tv"
 },
 {
 "seller_id": "50402",
