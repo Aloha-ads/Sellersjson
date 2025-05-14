@@ -526,8 +526,14 @@
   "name": "rfdtv.com"
 },
 {
-  "seller_id": "50403",
+  "seller_id": "55555",
   "seller_type": "PUBLISHER",
+  "domain": "smaato.com",
+  "name": "smaato"
+},
+{
+  "seller_id": "50403",
+  "seller_type": "INTERMEDIARY",
   "domain": "tredio.io",
   "name": "tredio.io"
 },
