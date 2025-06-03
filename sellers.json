@@ -23,6 +23,12 @@
 "name": "rakuten.tv"
 },
 {
+"seller_id": "50652",
+"seller_type": "PUBLISHER",
+"domain": "veraxen.com",
+"name": "veraxen.com"
+},
+{
 "seller_id": "50325",
 "seller_type": "PUBLISHER",
 "domain": "weatherbug.com",
@@ -572,12 +578,6 @@
   "seller_type": "PUBLISHER",
   "domain": "sportsgrid.com",
   "name": "sportsgrid.com"
-},
-{
-  "seller_id": "50652",
-  "seller_type": "INTERMEDIARY",
-  "domain": "veraxen.com",
-  "name": "veraxen.com"
 },
 {
 "seller_id": "50660",
