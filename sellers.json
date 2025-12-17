@@ -23,18 +23,6 @@
 "name": "tap-nation.io"
 },
 {
-"seller_id": "50210",
-"seller_type": "PUBLISHER",
-"domain": "plex.tv",
-"name": "plex TV"
-},
-{
-"seller_id": "50642",
-"seller_type": "PUBLISHER",
-"domain": "games2win.com",
-"name": "games2win.com"
-},
-{
 "seller_id": "50714",
 "seller_type": "PUBLISHER",
 "is_confidential": 0,
@@ -106,6 +94,18 @@
 "seller_type": "PUBLISHER",
 "domain": "apkclasico.com",
 "name": "apkclasico.com"
+},
+{
+"seller_id": "50210",
+"seller_type": "PUBLISHER",
+"domain": "plex.tv",
+"name": "plex TV"
+},
+{
+"seller_id": "50642",
+"seller_type": "PUBLISHER",
+"domain": "games2win.com",
+"name": "games2win.com"
 },
 {
 "seller_id": "50634",
