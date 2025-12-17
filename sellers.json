@@ -5,40 +5,10 @@
 "identifiers": [],
 "sellers": [
 {
-"seller_id": "50210",
-"seller_type": "PUBLISHER",
-"domain": "plex.tv",
-"name": "plex TV"
-},
-{
-"seller_id": "50221",
-"seller_type": "PUBLISHER",
-"domain": "mobilityware.com",
-"name": "mobilityware.com"
-},
-{
-"seller_id": "50658",
-"seller_type": "PUBLISHER",
-"domain": "rakuten.tv",
-"name": "rakuten.tv"
-},
-{
-"seller_id": "50271",
-"seller_type": "PUBLISHER",
-"domain": "voodoo.io",
-"name": "Voodoo"
-},
-{
 "seller_id": "50652",
 "seller_type": "PUBLISHER",
 "domain": "veraxen.com",
 "name": "veraxen.com"
-},
-{
-"seller_id": "50325",
-"seller_type": "PUBLISHER",
-"domain": "weatherbug.com",
-"name": "WeatherBug"
 },
 {
 "seller_id": "50209",
@@ -51,6 +21,12 @@
 "seller_type": "PUBLISHER",
 "domain": "tap-nation.io",
 "name": "tap-nation.io"
+},
+{
+"seller_id": "50210",
+"seller_type": "PUBLISHER",
+"domain": "plex.tv",
+"name": "plex TV"
 },
 {
 "seller_id": "50642",
@@ -100,6 +76,12 @@
 "seller_type": "PUBLISHER",
 "domain": "allplaynews.com",
 "name": "allplaynews.com"
+},
+{
+"seller_id": "50658",
+"seller_type": "PUBLISHER",
+"domain": "rakuten.tv",
+"name": "rakuten.tv"
 },
 {
 "seller_id": "50668",
@@ -190,6 +172,12 @@
 "seller_type": "PUBLISHER",
 "domain": "galxy.tv",
 "name": "galxy.tv"
+},
+{
+"seller_id": "50325",
+"seller_type": "PUBLISHER",
+"domain": "weatherbug.com",
+"name": "WeatherBug"
 },
 {
 "seller_id": "50586",
@@ -290,6 +278,12 @@
 "name": "tyko.online"
 },
 {
+"seller_id": "50221",
+"seller_type": "PUBLISHER",
+"domain": "mobilityware.com",
+"name": "mobilityware.com"
+},
+{
 "seller_id": "50607",
 "seller_type": "PUBLISHER",
 "is_confidential": 0,
@@ -332,6 +326,12 @@
 "seller_type": "PUBLISHER",
 "domain": "splintrun.com",
 "name": "smarter wireless"
+},
+{
+"seller_id": "50271",
+"seller_type": "PUBLISHER",
+"domain": "voodoo.io",
+"name": "Voodoo"
 },
 {
 "seller_id": "50221",
